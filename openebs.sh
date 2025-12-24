@@ -25,4 +25,6 @@ parameters:
 
 EOF
 
+kubectl get sc
+
 
