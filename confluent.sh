@@ -144,7 +144,7 @@ kubectl apply -f confluent-platform.yaml
 
 # See the Confluent Platform Resources Deployed or not
 
-kubectl get confluent
+kubectl get pods
 
 
 echo "Confluent for Kubernetes deployment script completed successfully!"
