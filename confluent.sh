@@ -50,6 +50,14 @@ spec:
       endpoint: zookeeper.confluent.svc.cluster.local:2181
 EOF
 
+# Apply this yaml 
+
+kubectl apply -f confluent-platform.yaml
+
+# See the Confluent Platform Resources Deployed or not
+
+kubectl get confluent
+
 
 echo "Confluent for Kubernetes deployment script completed successfully!"
 
