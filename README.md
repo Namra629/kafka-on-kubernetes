@@ -29,9 +29,12 @@
 
 6. Now , all the kafka pods will be in the running state.
 
-7. On master node,  Create a service file of control-center to expose it on external port. ( File present in the repository )
+   <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/6563dfdd-0eb4-4092-ac28-e062e79477f0" />
 
-8. Apply it
+
+8. On master node,  Create a service file of control-center to expose it on external port. ( File present in the repository )
+
+9. Apply it
 
          kubectl apply -f control-center-service.yaml
 
