@@ -26,8 +26,9 @@
 
           sudo mkdir -p /var/local-hostpath
           sudo chmod -R 777 /var/local-hostpath
+6.  A new sc will be made which will be used as default by kubernetes for all the pods in confluent namespace.
 
-6. Now , all the kafka pods will be in the running state.
+7. Now , all the kafka pods will be in the running state.
 
    <img width="800" height="300" alt="image" src="https://github.com/user-attachments/assets/6563dfdd-0eb4-4092-ac28-e062e79477f0" />
 
