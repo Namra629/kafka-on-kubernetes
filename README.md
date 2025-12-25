@@ -12,7 +12,7 @@
 
 3.  For PVC t obound to a PV, storage class is necessary.
 
-<img width="537" height="46" alt="image" src="https://github.com/user-attachments/assets/5e46b950-5c0a-4768-bfe4-c9c65451d97a" />
+<img width="530" height="40" alt="image" src="https://github.com/user-attachments/assets/5e46b950-5c0a-4768-bfe4-c9c65451d97a" />
   
 4.Run the CSI driver openebs scripts to install the CSI driver and deploy the custom storage class required for the PVC to bound to PV as the kubeadm kubernetes has no default dynamic (automatic) volume provsiioning.
 
