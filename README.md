@@ -16,7 +16,7 @@
   
 4.Run the CSI driver openebs scripts to install the CSI driver and deploy the custom storage class required for the PVC to bound to PV as the kubeadm kubernetes has no default dynamic (automatic) volume provsiioning.
 
-<img width="900" height="300" alt="image" src="https://github.com/user-attachments/assets/9b417bc9-bfbc-41cf-a5bb-1737d6b51e95" />
+<img width="870" height="250" alt="image" src="https://github.com/user-attachments/assets/9b417bc9-bfbc-41cf-a5bb-1737d6b51e95" />
 
 
 <img width="1000" height="100" alt="image" src="https://github.com/user-attachments/assets/62697f94-cd7b-4bd3-8049-a77e44f2e7e8" />
