@@ -43,7 +43,7 @@ References:
 
        https://github.com/confluentinc/confluent-kubernetes-examples/tree/master/quickstart-deploy
        https://openebs.io/docs/3.10.x/user-guides/installation
-       href="https://openebs.io/docs/main/user-guides/local-storage-user-guide/local-pv-hostpath/configuration/hostpath-create-storageclass
+       https://openebs.io/docs/main/user-guides/local-storage-user-guide/local-pv-hostpath/configuration/hostpath-create-storageclass
 
 
 
