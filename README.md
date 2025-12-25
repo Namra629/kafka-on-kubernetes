@@ -27,6 +27,18 @@
           sudo mkdir -p /var/local-hostpath
           sudo chmod -R 777 /var/local-hostpath
 
+6. Now , all the kafka pods will be in the running state.
+
+7. On master node,  Create a service file of control-center to expose it on external port. ( File present in the repository )
+
+8. Apply it
+
+         kubectl apply -f control-center-service.yaml
+
+
+
+
+
 
       
 
