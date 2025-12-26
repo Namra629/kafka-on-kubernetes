@@ -8,6 +8,8 @@ For this, check my github repo
 
 https://github.com/Namra629/Kubernetes-Cluster-Setup
 
+# Installation Steps
+
 1. After running the scripts, pods will be in the pending state
 
 <img width="725" height="110" alt="image" src="https://github.com/user-attachments/assets/cad0c452-f3e3-4c03-a7c7-ecfe600cc6bf" />
