@@ -1,4 +1,4 @@
-# kafka-on-kubernetes ( installing through helm )
+# confluent-kafka-on-kubernetes ( installing through helm )
 
 # Pre-requisite 
 
