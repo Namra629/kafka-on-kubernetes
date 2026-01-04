@@ -1,4 +1,4 @@
-# confluent-kafka-on-kubernetes ( Not Kraft Controller but Confluent Operator installation through helm )
+# confluent-kafka-on-kubernetes ( Not kraft controller but confluent operator installation through helm )
 
 # Pre-requisite 
 
